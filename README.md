@@ -1,2 +1,10 @@
-# os211
-Operating Systems 2021-1 (Semester Genap 2020/2021)
+---
+layout: "layout"
+---
+
+Hallo!
+
+This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+
+Qapla, Jolan Tru!<br>[====](GitHubPages/)[======](REPORT/00/)
+
