@@ -8,7 +8,6 @@ ZCZC W00 30 L22 Youtube: study, etc.
 ZCZC W00 30 L05 GSGS related
 ZCZC W00 60 L26 Movie: relax, etc.
 ZCZC W00 30 L05 GSGS related
-
 ZCZC W01 100 L02 Zoom lecture
 ZCZC W01  15 L05 Doing Quiz Q11 - Q15
 ZCZC W01  30 L21 Study and install virtual box
