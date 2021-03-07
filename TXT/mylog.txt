@@ -8,3 +8,18 @@ ZCZC W00 30 L22 Youtube: study, etc.
 ZCZC W00 30 L05 GSGS related
 ZCZC W00 60 L26 Movie: relax, etc.
 ZCZC W00 30 L05 GSGS related
+
+ZCZC W01 100 L02 Zoom lecture
+ZCZC W01  15 L05 Doing Quiz Q11 - Q15
+ZCZC W01  30 L21 Study and install virtual box
+ZCZC W01 120 L11 Set up debian
+ZCZC W01  30 L03 Set up github in guest machine
+ZCZC W01  30 L26 Movie: relax
+ZCZC W01  10 L05 GSGS VI
+ZCZC W01  10 L05 GSGS Virtual Box
+ZCZC W01  30 L05 GSGS Top 10 Link OS
+ZCZC W01  60 L10 Doing assignments
+
+
+
+
