@@ -25,6 +25,9 @@ ZCZC W02  60 L05 GSGS C language
 ZCZC W02  60 L10 Learn C and C++ language
 ZCZC W02  60 L10 Create week02 top 10 website
 ZCZC W02  30 L10 Create top rank
-
+ZCZC W03 100 L02 Zoom Class
+ZCZC W03  60 L10 Doing assignments
+ZCZC W03  60 L26 Movie and series
+ZCZC W03  60 L05 GSGS week 03 materials
 
 
