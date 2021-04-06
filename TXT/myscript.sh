@@ -31,6 +31,8 @@ for II in W?? ; do
     rm -f $TARFILE $TARFASC
     echo "tar cfj $TARFILE $II/"
     tar cfj $TARFILE $II/
+    echo "check content of the tar"
+    tar tfj $TARFILE
     echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE"
     gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
 done
