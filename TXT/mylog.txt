@@ -37,6 +37,8 @@ ZCZC W05 100 L02 Zoom Class
 ZCZC W05 120 L10 Doing assignments
 ZCZC W05  60 L26 Movie and series
 ZCZC W05  60 L05 GSGS week 03 materials
-
-
+ZCZC W06 100 L02 Zoom Class
+ZCZC W06 120 L10 Doing assignments
+ZCZC W06 120 L26 Movie and series
+ZCZC W06  60 L05 GSGS week 06 materials
 
